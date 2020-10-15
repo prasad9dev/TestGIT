@@ -1,0 +1,6 @@
+<style>
+#suiteBarLeft, #suiteBarRight
+{
+background-color:#000 !important;
+}
+</style>
